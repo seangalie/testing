@@ -9,10 +9,17 @@ This repository contains example files and a minimal project scaffold.
 
 ## Installation
 
-Clone the repository:
+Clone the repository from my local development repository:
 
 ```bash
 git clone https://git.seangalie.net/seangalie/testing.git
+cd testing
+```
+
+Clone the repository from my GitHub repository:
+
+```bash
+git clone https://github.com/seangalie/testing.git
 cd testing
 ```
 
