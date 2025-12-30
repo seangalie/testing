@@ -1,10 +1,50 @@
 {
-    "project_name": "Code Project Testing",
+    "project_name": "Testing Repository",
     "tab_size": 4,
+    "auto_indent": true,
+    "auto_indent_on_paste": true,
+    "hard_tabs": false,
     "colorize_brackets": true,
-    "prettier": {
-    "allowed": true
-    },
+    "show_wrap_guides": true,
     "soft_wrap": "editor_width",
-    "show_whitespaces": "trailing"
+    "preferred_line_length": 80,
+    "prettier": {
+        "allowed": true
+    },
+    "indent_guides": {
+        "enabled": true,
+        "line_width": 1,
+        "active_line_width": 1,
+        "coloring": "fixed",
+        "background_coloring": "disabled"
+    },
+    "show_whitespaces": "trailing",
+    "format_on_save": "on",
+    "ensure_final_newline_on_save": true,
+    "remove_trailing_whitespace_on_save": true,
+    "use_on_type_format": true,
+    "use_autoclose": true,
+    "use_auto_surround": true,
+    "show_completions_on_input": true,
+    "show_completion_documentation": true,
+    "completions": {
+        "words_min_length": 3,
+        "words": "fallback"
+    },
+    "inlay_hints": {
+        "enabled": false,
+        "show_value_hints": true,
+        "show_type_hints": true,
+        "show_parameter_hints": true,
+        "show_background": false,
+        "show_other_hints": true,
+        "edit_debounce_ms": 700,
+        "scroll_debounce_ms": 50
+    },
+    "tasks": {
+        "enabled": true,
+        "prefer_lsp": true
+    },
+    "word_diff_enabled": true,
+    "extend_comment_on_newline": true
 }

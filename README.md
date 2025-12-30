@@ -1,11 +1,22 @@
-# Code Project Testing Repository
+# Testing Repository
 
 A small, sample placeholder repository used for development workflow testing,
-tool demonstration purposes, and code environment configuration.
+tool demonstration purposes, and coding environment configuration.
+
+## Project Status
+
+This is a placeholder repository used for testing and demonstration purposes.
 
 ## Description
 
-This repository contains example files and a minimal project scaffold.
+This repository contains example files and a minimal project scaffold. It serves
+as a testing ground for development workflows and tool configurations.
+
+## Project Goals
+
+- Provide a clean starting point for testing development workflows
+- Demonstrate proper repository structure and documentation practices
+- Test various development tools and configurations
 
 ## Installation
 
@@ -23,16 +34,22 @@ git clone https://github.com/seangalie/testing.git
 cd testing
 ```
 
-No dependencies required — add your project files here.
+No dependencies are required — add your project files here.
 
 ## Usage
 
-Add your code under this directory and document usage here.
+There are no usage guidelines as this is a placeholder
+
+## Documentation
+
+- [Contributing Guidelines](CONTRIBUTING.md) - How to contribute to this project
+- [Security Policy](SECURITY.md) - Security vulnerability reporting
+- [Changelog](CHANGELOG.md) - Project changes and updates
 
 ## Contributing
 
-There is nothing here, so all contributions are welcome.
+All contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
 ## License
 
-This project is a placeholder for testing — see the `LICENSE` file for details.
+This project is a placeholder — see the `LICENSE` file for details.

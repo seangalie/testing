@@ -1,4 +1,24 @@
 {
+    // Editor
+    "editor.fontSize": 13, // Sets the font size in the editor
+    "editor.fontFamily": "FiraCode Nerd Font Mono, monospace", // Sets the font family
+    "editor.fontLigatures": true, // Enables font ligatures if the font supports them
+    "editor.tabSize": 4, // Sets the number of spaces a tab is equal to
+    "editor.insertSpaces": true, // Inserts spaces when pressing Tab
+    "editor.wordWrap": "on", // Enables word wrapping in the editor
+    "editor.minimap.enabled": true, // Shows the minimap (code preview on the right)
+    "editor.autoIndentOnPaste": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true, // Formats the file on save
+    "editor.mouseWheelZoom": true, // Zoom the editor font when using the mouse wheel and holding Ctrl
+    "editor.cursorSmoothCaretAnimation": "on", // Enables smooth animation of the cursor
+    "editor.guides.bracketPairs": true, // Enables bracket pair colorization and guides
+
+    // Workbench
+    "workbench.colorTheme": "Catppuccin Macchiato", // Sets the color theme for the UI
+    "workbench.iconTheme": "catppuccin-macchiato", // Sets the file icon theme (requires extension)
+
+    // Files
     "files.eol": "\n",
-    "editor.detectIndentation": false
+    "files.trimTrailingWhitespace": true // Trims trailing whitespace when saving a file
 }
