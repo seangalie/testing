@@ -1,7 +1,3 @@
-# testing
-
-Placeholder repository for testing workflows
-
 # Test Project
 
 A small, sample placeholder repository used for development workflow testing and
