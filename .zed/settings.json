@@ -1,0 +1,10 @@
+{
+    "project_name": "Code Project Testing",
+    "tab_size": 4,
+    "colorize_brackets": true,
+    "prettier": {
+    "allowed": true
+    },
+    "soft_wrap": "editor_width",
+    "show_whitespaces": "trailing"
+}
